@@ -9,5 +9,5 @@ d = {
 }
 db1 = client['mongotest']
 coll = db1['test']
-
+print("hi git ")
 
